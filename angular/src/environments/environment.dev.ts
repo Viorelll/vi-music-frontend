@@ -5,5 +5,5 @@
 export const environment = {
   production: false,
   apiRoot:
-    'http://74.248.144.6',
+    'https://vimusic.polandcentral.cloudapp.azure.com',
 };
