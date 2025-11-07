@@ -5,5 +5,5 @@
 export const environment = {
   production: false,
   apiRoot:
-    'https://vitest-container.politecliff-00fca516.westeurope.azurecontainerapps.io',
+    'http://74.248.144.6/api',
 };
